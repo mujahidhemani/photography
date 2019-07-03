@@ -5,11 +5,11 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: "UA-143221207-1"
 
 # UI configs
-title: "Photography by Mujahid Hemani"
+title: "Photos by Mujahid Hemani"
 subtitle: "Look through my viewfinder!"
 author: "Mujahid Hemani"
 header:
- title: "Photography"
+ title: "Photos"
  subtitle: "by Mujahid Hemani"
 footer:
  name: "Hey there, my name is Mujahid Hemani"
